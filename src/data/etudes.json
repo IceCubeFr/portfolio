@@ -1,0 +1,26 @@
+[
+  {
+    "temporalite": "Depuis septembre 2024",
+    "label": "BUT Informatique — IUT de Lille, Université de Lille",
+    "image": "/media/etudes/iut-lille.png",
+    "competences": [
+      "Java",
+      "Web",
+      "Réseaux et système",
+      "Communication",
+      "Anglais (niveau B2)"
+    ]
+  },
+  {
+    "temporalite": "Session 2024",
+    "label": "Baccalauréat général — spécialités Mathématiques et NSI",
+    "image": "/media/etudes/bac.png",
+    "competences": ["Diplôme"]
+  },
+  {
+    "temporalite": "2021 - 2024",
+    "label": "Lycée public Marguerite de Flandre — Gondecourt",
+    "image": "/media/etudes/lycee.png",
+    "competences": ["Python", "Anglais", "Espagnol", "Mathématiques"]
+  }
+]

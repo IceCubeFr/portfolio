@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" role="img" aria-labelledby="exp-title exp-desc">
+  <title id="exp-title">Développeur FullStack stagiaire chez Nextoo</title>
+  <desc id="exp-desc">Illustration de l'expérience « Développeur FullStack stagiaire chez Nextoo », d'avril à juin 2026.</desc>
+  <defs>
+    <linearGradient id="exp-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#581c87"/>
+      <stop offset="0.55" stop-color="#7e22ce"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+    <radialGradient id="exp-glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="800" height="450" fill="url(#exp-bg)"/>
+  <circle cx="710" cy="20" r="240" fill="url(#exp-glow)"/>
+
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.18" stroke-width="2">
+    <circle cx="760" cy="380" r="150"/>
+    <circle cx="760" cy="380" r="105"/>
+    <circle cx="760" cy="380" r="60"/>
+  </g>
+
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" fill="#ffffff">
+    <rect x="64" y="64" width="208" height="46" rx="23" fill="#ffffff" fill-opacity="0.16" stroke="#ffffff" stroke-opacity="0.3"/>
+    <text x="88" y="93" font-size="19" font-weight="600" letter-spacing="0.2">Avril à Juin 2026</text>
+
+    <text x="64" y="316" font-size="38" font-weight="700" letter-spacing="-0.4">Développeur FullStack</text>
+    <text x="64" y="368" font-size="38" font-weight="700" letter-spacing="-0.4">stagiaire chez Nextoo</text>
+  </g>
+</svg>

@@ -1,0 +1,43 @@
+[
+  {
+    "temporalite": "Depuis septembre 2026",
+    "label": "Développeur FullStack alternant chez Nextoo",
+    "image": "/media/experiences/nextoo-alternance.svg",
+    "competences": ["SpringBoot", "JPA / Hibernate", "VueJS", "Agilité", "Travail d'équipe"]
+  },
+  {
+    "temporalite": "Depuis juillet 2025",
+    "label": "Rédacteur pour l'association Mobilille",
+    "image": "/media/experiences/mobilille.svg",
+    "competences": ["Éditorial", "Rédaction", "Engagement"]
+  },
+  {
+    "temporalite": "Avril à Juin 2026",
+    "label": "Développeur FullStack stagiaire chez Nextoo",
+    "image": "/media/experiences/nextoo-stage.svg",
+    "competences": ["SpringBoot", "JPA / Hibernate", "VueJS", "Rédaction de mémoire", "Travail d'équipe"]
+  },
+  {
+    "temporalite": "Juillet 2025",
+    "label": "Tuteur de maisonnée pour le SNU — 12 jeunes de 15-17 ans pendant 15 jours",
+    "image": "/media/experiences/snu.svg",
+    "competences": [
+      "Gestion de jeunes",
+      "Prise de responsabilités",
+      "Mise en place d'activités",
+      "Engagement"
+    ]
+  },
+  {
+    "temporalite": "Février 2024 - Août 2024",
+    "label": "Membre bénévole de l'équipe support du jeu vidéo NovaLife:Amboise",
+    "image": "/media/experiences/novalife.svg",
+    "competences": ["Résolution de problèmes techniques", "Gestion communautaire"]
+  },
+  {
+    "temporalite": "Novembre 2023 - Septembre 2025",
+    "label": "Administrateur bénévole d'un serveur communautaire de plus de 1300 membres",
+    "image": "/media/experiences/administration.svg",
+    "competences": ["Gestion communautaire"]
+  }
+]
